@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/drawable-anydpi/action.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable-anydpi/alarm.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable-anydpi/location.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable-anydpi/person_add.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/drawable/gradient_1.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable/gradient_2.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable/gradient_3.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable/gradient_list.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/gradient_main.xml" value="0.37864583333333335" />
+        <entry key="app/src/main/res/layout/wheel_main.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
