@@ -20,7 +20,7 @@
 
 
         <div class="bg-green-700 w-26 h-33 rounded-md m-3">
-            b2
+            <p id="b1">text</p>
             <br>
             1
             <br>
@@ -104,3 +104,16 @@
         </div> 
     </div> 
 </body> 
+
+<script src="/socket.io/socket.io.js"></script>
+<script>
+
+    var socket = io.connect('http://localhost:3000');
+    socket.on('msg', function (data) {
+        const obj = JSON.parse(data);
+        console.log(obj.led1);
+        const B1 = document.getElementById("b1");
+        B1.innerText = obj.led1;
+    });
+
+</script>
