@@ -51,7 +51,7 @@ app.get('/', function(req, res, next) {
 
 
 const json = `{
-  "led1" : 121,
+  "led1" : 11,
   "led2" : 222,
   "led3" : 333
 }`;
